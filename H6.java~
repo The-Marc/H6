@@ -2,5 +2,4 @@
 
 //incrementing a counter if they are equal
 //an insert method that creates a new node 
-//a delete method that deletes a node
-//
+//delete method that deletes a node
